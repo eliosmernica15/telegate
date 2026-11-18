@@ -1,0 +1,6 @@
+{
+  "name": "TeleGate - Universal RF Door Telecommand & Frequency Hub",
+  "description": "Connect, learn, encrypt, and trigger any automated gate, garage, or door from your phone using universal RF frequency capture and secure cloud/local bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
